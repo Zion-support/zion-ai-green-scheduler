@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-green-scheduler/
-- 🔗 Related: [Green Cloud Picker](https://ziontechgroup.com/green-cloud-picker/) · [Zion AI Energy Optimizer](https://ziontechgroup.com/zion-ai-energy-optimizer/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Green Cloud Picker](https://ziontechgroup.com/green-cloud-picker/) · [Zion AI Energy Sentinel](https://ziontechgroup.com/zion-ai-energy-sentinel/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
